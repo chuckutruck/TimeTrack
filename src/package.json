@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.0",
+    "framer-motion": "latest",
+    "react-router-dom": "latest",
+    "react-icons": "latest",
+    "chart.js": "latest",
+    "react-chartjs-2": "latest",
+    "uuid": "latest",
+    "firebase": "latest",
+    "date-fns": "latest"
+  },
+  "main": "/index.js",
+  "devDependencies": {}
+}
